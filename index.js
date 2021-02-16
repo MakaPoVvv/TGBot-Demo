@@ -62,12 +62,12 @@ bot.on('voice', (msg) =>{
     console.log(msg.voice);
 })
 
-// bot.on('message', async (msg) => {
-//     if (msg.text === '/start' || msg.text === '/change') return
-//     const currentLanguage =  await getLanguage(msg.from.id)
-//     const translated = await translateText(msg.text, currentLanguage)
-//     await bot.sendMessage(msg.from.id, translated)
-// })
+bot.on('message', async (msg) => {
+    if (msg.text === '/start' || msg.text === '/change') return
+    const currentLanguage =  await getLanguage(msg.from.id)
+    const translated = await translateText(msg.text, currentLanguage)
+    await bot.sendMessage(msg.from.id, translated)
+})
 
 bot.onText(/^\/change$/, async (msg) => {
     await sendLanguagesPickerKeyboard(msg)
