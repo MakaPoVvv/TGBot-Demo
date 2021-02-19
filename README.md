@@ -10,3 +10,7 @@ https://t.me/translatorium_bot
 • Node-telegram-bot-api   
 • Google Cloud Translation API  
 • Firebase Database  
+## Usage
+Click /start to enable bot
+Paste text in any language and send it to bot (language is define automatically)
+To change language click /change 
