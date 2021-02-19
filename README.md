@@ -1,8 +1,6 @@
-# Translator telegram-bot 
+# Translator telegram-bot
+Easy-to-use translator telegram-bot created with Node JS
 [![image.png](https://i.postimg.cc/wj36DdSz/image.png)](https://postimg.cc/nXbbtNFS)
-
-## Easy-to-use translator telegram-bot created with Node JS
-
 ## Demo
 t.me/translatorium_bot
 
