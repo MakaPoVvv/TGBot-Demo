@@ -1,2 +1,2 @@
 # Translator telegram-bot 
-[![Tgbot-demo-Made-with-Clipchamp.gif](https://i.postimg.cc/d04LwBPQ/Tgbot-demo-Made-with-Clipchamp.gif)](https://postimg.cc/yJ3VT082)
+[![image.png](https://i.postimg.cc/sg0gL2p1/image.png)](https://postimg.cc/3kmh4YfH)
