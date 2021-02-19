@@ -11,6 +11,6 @@ https://t.me/translatorium_bot
 • Google Cloud Translation API  
 • Firebase Database  
 ## Usage
-Click /start to enable bot
-Paste text in any language and send it to bot (language is define automatically)
-To change language click /change 
+Click /start to enable bot  
+Paste text in any language and send it to bot (language is define automatically)  
+To change language click /change   
